@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Mylifewithmyexperiment/react-redux-todo-app/static/css/main.55d2dd05.chunk.css",
+    "main.js": "/Mylifewithmyexperiment/react-redux-todo-app/static/js/main.31403274.chunk.js",
+    "main.js.map": "/Mylifewithmyexperiment/react-redux-todo-app/static/js/main.31403274.chunk.js.map",
+    "runtime-main.js": "/Mylifewithmyexperiment/react-redux-todo-app/static/js/runtime-main.4bbce7bb.js",
+    "runtime-main.js.map": "/Mylifewithmyexperiment/react-redux-todo-app/static/js/runtime-main.4bbce7bb.js.map",
+    "static/js/2.497bb966.chunk.js": "/Mylifewithmyexperiment/react-redux-todo-app/static/js/2.497bb966.chunk.js",
+    "static/js/2.497bb966.chunk.js.map": "/Mylifewithmyexperiment/react-redux-todo-app/static/js/2.497bb966.chunk.js.map",
+    "index.html": "/Mylifewithmyexperiment/react-redux-todo-app/index.html",
+    "precache-manifest.81e693eaa18ee5dc2d4b1389dc95c465.js": "/Mylifewithmyexperiment/react-redux-todo-app/precache-manifest.81e693eaa18ee5dc2d4b1389dc95c465.js",
+    "service-worker.js": "/Mylifewithmyexperiment/react-redux-todo-app/service-worker.js",
+    "static/css/main.55d2dd05.chunk.css.map": "/Mylifewithmyexperiment/react-redux-todo-app/static/css/main.55d2dd05.chunk.css.map",
+    "static/js/2.497bb966.chunk.js.LICENSE.txt": "/Mylifewithmyexperiment/react-redux-todo-app/static/js/2.497bb966.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Mylifewithmyexperiment/react-redux-todo-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bbce7bb.js",
+    "static/js/2.497bb966.chunk.js",
+    "static/css/main.55d2dd05.chunk.css",
+    "static/js/main.31403274.chunk.js"
+  ]
+}
