@@ -2,6 +2,26 @@
 This is my first react redux app. Through this app one can add list of to do and change the state based on it's completions to completed and incompleted.
  
 Steps by step of applications
+steps are:-
+git --version
+node --version
+npm --version
+npm install -g create-react-app
+
+create-react-app --version
+
+create-react-app <projectname>
+
+cd <projectname>
+npm install @reduxjs/toolkit
+or
+npm install redux
+npm install react-redux
+npm install --save-dev redux-devtools
+
+npm start
+
+##########################or ##################
 
 npx create-react-app my-app
 cd my-app
